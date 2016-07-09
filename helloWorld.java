@@ -4,6 +4,6 @@
  */
 public class helloWorld { 
    public static void main(String[] args) { 
-      System.out.println("Hello, Automic World");
+      System.out.println("Hello, V2 Automic World");
    }
 }
