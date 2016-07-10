@@ -4,6 +4,6 @@
  */
 public class helloWorld { 
    public static void main(String[] args) { 
-      System.out.println("Hello, Have mercy5 Lord");
+      System.out.println("Hello, Have mercy6 Lord");
    }
 }
