@@ -4,6 +4,6 @@
  */
 public class helloWorld { 
    public static void main(String[] args) { 
-      System.out.println("Hello, New Day1");
+      System.out.println("Hello, New Day2");
    }
 }
